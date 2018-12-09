@@ -1,7 +1,9 @@
-package com.bugscript.advanceddemo;
+package com.bugscript.advanceddemo.home;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.bugscript.advanceddemo.R;
 
 public class MainActivity extends AppCompatActivity {
 
